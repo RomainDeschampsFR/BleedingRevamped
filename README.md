@@ -15,5 +15,5 @@ It makes:
 ## Installation
 
 1. If you haven't done so already, install MelonLoader
-2. Download the latest version of `BleedingRevamped.dll` from the [releases page](https://github.com//Bleeding_RV/releases)
+2. Download the latest version of `BleedingRevamped.dll` from the [releases page](https://github.com/RomainDeschampsFR/BleedingRevamped/releases)
 3. Move `BleedingRevamped.dll` into the Mods folder in your TLD install directory
