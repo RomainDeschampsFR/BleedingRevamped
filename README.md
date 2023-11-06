@@ -2,7 +2,7 @@
 
 This is a mod for **The Long Dark** by Hinterland Games Studio, Inc.
 
-Original mod from Deus13
+Original mod from Deus
 
 It makes:
 1) Small wounds stop bleeding after a while, so killing bear with revolver shoot in the foot will be very unlikely.
