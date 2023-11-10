@@ -12,6 +12,10 @@ It makes:
 5) It randomizes the bleeding times a bit, so players can have luck and hit the aorta vein.
 6) Wildlife now slowly regenerate HP so wounds will disappear after some time. 
 
+
+![bleeding](https://github.com/RomainDeschampsFR/BleedingRevamped/assets/38351288/62f56906-2afb-4c01-9ac0-e7c64848f08e)
+
+
 ## Installation
 
 1. If you haven't done so already, install MelonLoader
